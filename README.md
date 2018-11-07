@@ -45,5 +45,5 @@ We will grab data from the 2016-2017 New York Knicks (don't worry I am not a fan
 * This is due to the fact that NYK depends heavily on lineups with both of these two players, and in order to maintain the level of play, they would both have to play on their rest days
 * If we included all the possible lineups and players, the solution will be better as there are more players and lineups to choose from 
 
-## ToDo:
+## ToDo
 Put this to the test using Gurobi in Python with more lineups!
